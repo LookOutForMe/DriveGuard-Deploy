@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 50px;
+}
+
+.video-container {
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.video-container img {
+    max-width: 100%;
+}
